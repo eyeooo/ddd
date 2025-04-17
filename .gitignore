@@ -36,6 +36,7 @@ plugins/banwords/lib/__pycache__
 !plugins/jina_sum/**/
 !plugins/custom_dify_app
 !plugins/group_at_autoreply
+!plugins/GeminiImg
 client_config.json
 gewechat/
 
